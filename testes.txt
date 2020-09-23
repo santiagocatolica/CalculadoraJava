@@ -1,0 +1,20 @@
+Aula 23/09
+
+Levantamento de possiveis testes - Calculadora em JAVA
+
+Máteria:Teste de Software
+
+Membros:Gabriel Muller,Matheus ferreira,Santiago negreira.
+
+
+1) Verificar se todas as operações (subtração, multiplicação, divisão, soma) estão funcionando corretamente executando suas devidas funções.
+
+2) Verificar se números racionais estão funcionando corretamente.
+
+3) Verificar a divisão por zero.
+
+4) Verificar se realiza resultado das operações com 0.
+
+5) Testar outros números na escolha de opção.
+
+6) Testar para ver se ao digitar uma letra no lugar do número,irá ser permitido para realizar alguma operação.
