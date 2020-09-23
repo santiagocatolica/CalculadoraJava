@@ -11,6 +11,9 @@ public class Calculadora {
 		System.out.println("Escolha uma operacao: ");
 		System.out.println("1 - Soma, 2 - Subtracao, 3 - Multiplicacao, 4 - Divisao");
 		op = in.nextDouble();
+		if(op > 4 || op < 1){
+			System.out.println("Opcao invalida, escolha um numero de 1 a 4");
+		}
 		
 		// Escolhendo os números
 		System.out.println("Insira um numero: ");
